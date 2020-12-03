@@ -1,2 +1,2 @@
 web:npm start
-web:node src/main.js
+web:node src/server.js
